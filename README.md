@@ -13,6 +13,10 @@ Data was scraped from Amazon product pages, which include;
 Each row represents a single product, with aggregated reviews and performance data.
 *  Records include 1,465 products from 16 columns
 
+## Tools Used
+- Microsoft Excel
+- Visualizations
+- Dashboard creation tool
 
 
 [Amazon case study file](https://github.com/pharjehs90/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study%20file.xlsx)
