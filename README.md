@@ -18,6 +18,23 @@ Each row represents a single product, with aggregated reviews and performance da
 - Visualizations
 - Dashboard creation tool
 
+## Analysis Tasks 
+Using pivot tables and calculated columns, the following analysis were visualized
+1. Average discount percentage by product category
+2. Number of products listed under each category
+3. Total number of reviews per category
+4. Products that have the highest average ratings
+5. The average actual price vs the discounted price by category
+6. Products that have the highest number of reviews
+7. Number products that have a discount of 50% or more
+8. The distribution of product ratings
+9. The total potential revenue (actual_price × rating_count) by category 
+10. The number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)
+11. How the rating relate to the level of discount
+12. Number of products that have fewer than 1,000 reviews
+13. Categories have products with the highest discounts
+14. Identification of top 5 products in terms of rating and number of reviews combined
 
+## Visualized Data
 [Amazon case study file](https://github.com/pharjehs90/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study%20file.xlsx)
 
