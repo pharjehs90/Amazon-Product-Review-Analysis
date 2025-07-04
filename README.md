@@ -5,4 +5,5 @@ The dataset contains information scraped from Amazon product pages, including:
 •       Each row represents a unique product, with aggregated reviewer data  stored as comma-separated values
 
 
-[Amazon case study file](
+[Amazon case study file](https://github.com/pharjehs90/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study%20file.xlsx)
+
