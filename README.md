@@ -39,15 +39,16 @@ Using pivot tables and calculated columns, the following analysis were visualize
 [Amazon case study file](https://github.com/pharjehs90/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study%20file.xlsx)
 
 ## Insights from Dataset
-Electronics had the highest product counts, but often came with lower average ratings.
-Products with higher discounts often had more reviews, showing a possible link between discount and consumer engagement.
-Most products fell in the ₹200–₹500 price range
-Highest potential revenue observed in categories with both high ratings and high review counts.
-Some categories offer high discounts, but their average ratings are not necessarily higher. This means price cuts alone don’t always translate to customer satisfaction.
+  *  Electronics had the highest product counts, but often came with lower average ratings.
+  *  Products with higher discounts often had more reviews, showing a possible link between discount and consumer engagement.
+  *  Most products fell in the ₹200–₹500 price range
+  *  Highest potential revenue observed in categories with both high ratings and high review counts.
+  *  Some categories offer high discounts, but their average ratings are not necessarily higher. This means price cuts alone don’t always translate      to customer satisfaction.
 
 ## Recommendation
-	Focus marketing efforts on high-performing categories: Electronics and Books
-	Monitor and possibly relist low-rated products (<3 stars)
-	Leverage discounts strategically, as they don’t always improve ratings
-	Invest more in products with high review counts, they are likely to perform better
-	Keep price points competitive in the ₹200–₹500 range for volume
+  	Focus marketing efforts on high-performing categories: Electronics and Books
+  	Monitor and possibly relist low-rated products (<3 stars)
+  	Keep price points competitive in the ₹200–₹500 range for volume
+  	Leverage discounts strategically, as they don’t always improve ratings and engagement
+  	Target categories with high review counts and high ratings, they are likely to perform better
+ 
