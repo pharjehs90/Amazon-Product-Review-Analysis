@@ -55,3 +55,8 @@ Using pivot tables and calculated columns, the following analysis were visualize
   	Leverage discounts strategically, as they don’t always improve ratings and engagement
   
   	Target categories with high review counts and high ratings, they are likely to perform better
+
+Contact
+For feedback or questions
+
+Email: fajewonyomi.akinwumi@gmail.com
