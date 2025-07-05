@@ -46,9 +46,12 @@ Using pivot tables and calculated columns, the following analysis were visualize
   *  Some categories offer high discounts, but their average ratings are not necessarily higher. This means price cuts alone don’t always translate      to customer satisfaction.
 
 ## Recommendation
-  	Focus marketing efforts on high-performing categories: Electronics and Books
-  	Monitor and possibly relist low-rated products (<3 stars)
+  	Focus marketing efforts on high-performing categories
+  
+  	Monitor and possibly relist products that are low-rated (<3 stars)
+  
   	Keep price points competitive in the ₹200–₹500 range for volume
+  
   	Leverage discounts strategically, as they don’t always improve ratings and engagement
+  
   	Target categories with high review counts and high ratings, they are likely to perform better
- 
