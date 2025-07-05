@@ -58,7 +58,7 @@ Using pivot tables and calculated columns, the following analysis were visualize
 
   
 
-###  Contact
+###  **Contact**
 For feedback or questions
 
 Email: fajewonyomi.akinwumi@gmail.com
