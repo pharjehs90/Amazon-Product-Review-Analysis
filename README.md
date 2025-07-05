@@ -56,7 +56,7 @@ Using pivot tables and calculated columns, the following analysis were visualize
   
   	Target categories with high review counts and high ratings, they are likely to perform better
 
-Contact
+###  Contact
 For feedback or questions
 
 Email: fajewonyomi.akinwumi@gmail.com
